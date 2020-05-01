@@ -1,11 +1,11 @@
-/*!
- * Start Bootstrap - Round About (https://startbootstrap.com/template-overviews/round-about)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-round-about/blob/master/LICENSE)
- */
-
 body {
   padding-top: 54px;
+}
+
+@media (max-width: 500px){
+  body{
+    background-color: cornflowerblue;
+  }
 }
 
 @media (min-width: 992px) {
